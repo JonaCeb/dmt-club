@@ -83,7 +83,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-[rgba(255,255,255,0.04)] pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-[11px] text-gray-700 uppercase tracking-[0.25em]">
-            © 2025 DMT Club — Todos los derechos reservados.
+            © 2026 DMT Club — Todos los derechos reservados.
           </p>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-[#39ff14] pulse-dot" />
